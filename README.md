@@ -29,3 +29,7 @@ During development you can use the **watcher** functionality of the _Lightning-C
 #### Documentation
 
 Use `lng docs` to open up the Lightning-SDK documentation.
+
+#### API Key
+The MovieDB api key must be placed in the .env file and be named APP_API_KEY
+- eg APP_API_KEY = 123456789
